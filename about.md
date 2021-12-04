@@ -4,42 +4,23 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Welcome! I'm a MA candidate in Political Science at Seoul National University. My research explores the patterns that trade is used as a political weapon against another state and their political implications. Today's convoluted supply chains emerged from years of trials and errors, but still they are highly susceptible to changes in the market environment. Therefore, political exploitation of supply chains are probably not a good idea from economic perspectives. How far can states push trade restrictions if domestic interests are against them? How would firms and voters respond to these pushes? I pursue my research mainly in two directions. First, I reconcile free trade-based trade theories with trade restrictions. The new-new trade theory, a theoretical foundation for many current workhorse trade models, argues that firm productivity is the most pivotal factor in explaining trade flow. Under prospects of trade restrictions, how will the political uncertainty affect the investment decisions of firms with different productivity levels? And how will actual trade restrictions affect the trade network as a result? Second, I address the information asymmetry the state faces when imposing trade measures. Since states are not capable of acquiring all relevant information by themselves, firms will strategically release information considering its extent of verifiability of enforceability. I investigate how divergent interests of firms and the government affect the policy outcome under different market environments and how firms can protect themselves from harmful trade measures.</p>
+<!-- States no longer support the idea of unconditional free trade for various reasons.-->
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Research interests</h2>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<ul class="interest-list">
+	<li>International political economy</li>
+	<li>Trade politics</li>
+	<li>Supply chains</li>
+	<li>New-new trade theory</li>
+	<li>Informational lobbying</li>
 </ul>
 
-<h2>Projects</h2>
+<!--<h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul>-->
