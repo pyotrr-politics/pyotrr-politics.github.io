@@ -8,7 +8,7 @@ tag:
 image: 
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A Model of the Chip War: How Sanctions on Supply Chains Can Backfire"
 category: blog
 author: Peter
