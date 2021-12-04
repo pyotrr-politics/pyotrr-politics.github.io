@@ -2,7 +2,7 @@
 title: "A Model of the Chip War"
 layout: post
 date: 2021-12-05 01:01
-tag: jekyll
+tag: supply chains, semiconductors
 image: 
 headerImage: false
 projects: true
