@@ -19,7 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://pyotrr-politics.github.io/assets/files/cv.pdf
 
-url: https://pyotrr-politics.github.io/
+url: https://pyotrr-politics.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
