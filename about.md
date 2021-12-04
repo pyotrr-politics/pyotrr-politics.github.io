@@ -11,6 +11,8 @@ layout: page
 <p align="justify">Second, I address the information asymmetry the state faces when imposing trade measures. Since states are not capable of acquiring all relevant information by themselves, firms will strategically release information considering its extent of verifiability of enforceability. I investigate how divergent interests of firms and the government affect the policy outcome under different market environments and how firms can protect themselves from harmful trade measures.</p>
 <!-- States no longer support the idea of unconditional free trade for various reasons.-->
 
+<\n>
+
 <h2>Research interests</h2>
 
 <ul class="interest-list">
