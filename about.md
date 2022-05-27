@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-//
+<br/>
 <p>Welcome! I'm an incoming PhD student in Political Science at Stanford University. My research explores the patterns that trade is used as a political weapon against another state and their political implications. Today's convoluted supply chains emerged from years of trials and errors, but still they are highly susceptible to changes in the market environment. Therefore, political exploitation of supply chains are probably not a good idea from economic perspectives. How far can states push trade restrictions if domestic interests are against them? How would firms and voters respond to these pushes? </p>
 	
 <p>I pursue my research mainly in two directions. First, I reconcile free trade-based trade theories with trade restrictions. The new-new trade theory, a theoretical foundation for many current workhorse trade models, argues that firm productivity is the most pivotal factor in explaining trade flow. I examine how political uncertainty affect the investment decisions of firms with different productivity levels under prospects of trade restrictions, and how actual restrictions affect the trade network as a result.
