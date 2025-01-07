@@ -1,7 +1,7 @@
 ---
 title: "Shift-Share in Political Science"
 layout: post
-date: 2025-01-06 18:45
+date: 2025-01-06 18:35
 tag: 
 - shift-share design
 - formula instrument
