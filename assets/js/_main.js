@@ -2,11 +2,6 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-// transparent cursor
-body, body * {
-  caret-color: transparent;
-}
-
 $(document).ready(function () {
   // FitVids init
   $("#main").fitVids();
