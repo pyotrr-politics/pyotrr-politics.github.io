@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 show_title: false
 author_profile: true
