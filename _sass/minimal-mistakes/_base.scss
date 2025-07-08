@@ -47,6 +47,12 @@ h1 {
 
 h2 {
   font-size: $h-size-2;
+   // Underline each <h2> with a fine line
+   
+  border-bottom: 1px solid #ddd; // or any light gray you like
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
 }
 
 h3 {
