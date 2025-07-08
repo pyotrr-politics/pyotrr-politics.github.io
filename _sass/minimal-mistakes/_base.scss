@@ -2,6 +2,11 @@
    BASE ELEMENTS
    ========================================================================== */
 
+// transparent cursor
+body, body * {
+  caret-color: transparent;
+}
+
 html {
   /* sticky footer fix */
   position: relative;
