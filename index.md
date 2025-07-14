@@ -12,8 +12,8 @@ I am a rising fourth-year PhD student in Political Science at Stanford Universit
 
 ## Working Papers {#working-papers}
 
-#### Motivated Reasoning and Information Aggregation
-We model motivated reasoning and apply it to two informational models. [Paper](http://pyotrr-politics.github.io/assets/files/motivation.pdf)
+#### Motivated Reasoning and Information Aggregation 
+with Avidit Acharya and Tomer Zaidman. We model motivated reasoning and apply it to two informational models. [Paper](http://pyotrr-politics.github.io/assets/files/motivation.pdf)
 
 #### ATT without controls
 I discuss how to estimate causal effects when the data lacks control units. [Paper](http://pyotrr-politics.github.io/assets/files/robustatt.pdf)
