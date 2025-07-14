@@ -12,7 +12,7 @@ I am a rising fourth-year PhD student in Political Science at Stanford Universit
 
 ## Working Papers {#working-papers}
 
-#### Motivated Reasoning and Information Aggregation with [Avidit Acharya](https://aviditacharya.humsci.stanford.edu/) and [Tomer Zaidman](https://www.linkedin.com/in/tomer-zaidman/)
+#### Motivated Reasoning and Information Aggregation, with [Avidit Acharya](https://aviditacharya.humsci.stanford.edu/) and [Tomer Zaidman](https://www.linkedin.com/in/tomer-zaidman/)
 We model motivated reasoning and apply it to two informational models. [Paper](http://pyotrr-politics.github.io/assets/files/motivation.pdf)
 
 #### ATT without controls
