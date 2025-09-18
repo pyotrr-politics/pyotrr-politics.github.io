@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising fourth-year PhD student in Political Science at Stanford University. My primary research interest centers on causal inference with observational data. Secondary interests include formal models and trade politics. 
+I am a fourth-year PhD student in Political Science at Stanford University. My primary research interest centers on causal inference with observational data. Secondary interests include formal models and trade politics. 
 
 ## Working Papers {#working-papers}
 
