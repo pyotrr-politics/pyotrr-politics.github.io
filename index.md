@@ -24,6 +24,10 @@ I derive a sharp bound for the ATE under typical IV assumptions used in the clas
 #### Shift-Share in Political Science
 I review the use of shift-share designs in political science and make comments. [Paper](http://pyotrr-politics.github.io/assets/files/shiftshare.pdf)
 
+## Work in Progress
+
+#### Information Aggregation in Condorcet Jury Models
+I refine and extend the unifying function approach in McLennan (1998) to more general settings.
 
 ## Dormant Papers 
 #### A Model of the Chip War
