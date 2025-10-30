@@ -15,9 +15,6 @@ I am a fourth-year PhD student in Political Science at Stanford University. My p
 #### Motivated Reasoning and Information Aggregation
 With [Avidit Acharya](https://aviditacharya.humsci.stanford.edu/) and [Tomer Zaidman](https://www.linkedin.com/in/tomer-zaidman/), we model motivated reasoning and apply it to two informational models. [Paper](http://pyotrr-politics.github.io/assets/files/motivation.pdf)
 
-#### ATT without controls
-I discuss how to estimate causal effects when the data lacks control units. [Paper](http://pyotrr-politics.github.io/assets/files/robustatt.pdf)
-
 #### Sharp Bound for Average Treatment Effects with Monotone Instrument Variables
 I derive a sharp bound for the ATE under typical IV assumptions used in the classical partial identification literature. [Paper](http://pyotrr-politics.github.io/assets/files/mivmtr.pdf)
 
@@ -28,6 +25,10 @@ I review the use of shift-share designs in political science and make comments. 
 
 #### Information Aggregation in Condorcet Jury Models
 I refine and extend the unifying function approach in McLennan (1998) to more general settings.
+
+#### ATT without controls
+I discuss how to estimate causal effects when the data lacks control units. <!--[Paper](http://pyotrr-politics.github.io/assets/files/robustatt.pdf)--!>
+
 
 ## Dormant Papers 
 #### A Model of the Chip War
