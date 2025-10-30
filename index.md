@@ -27,10 +27,7 @@ I review the use of shift-share designs in political science and make comments. 
 I refine and extend the unifying function approach in McLennan (1998) to more general settings.
 
 #### ATT without controls
-I discuss how to estimate causal effects when the data lacks control units. <!--[Paper](http://pyotrr-politics.github.io/assets/files/robustatt.pdf)--!>
+I discuss how to estimate causal effects when the data lacks control units. 
 
 
 ## Dormant Papers 
-#### A Model of the Chip War
-
-[Paper](http://pyotrr-politics.github.io/assets/files/political_model_chip_war.pdf)
