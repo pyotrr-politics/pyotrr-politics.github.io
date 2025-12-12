@@ -13,7 +13,7 @@ I am a fourth-year PhD student in Political Science at Stanford University. My p
 ## Working Papers {#working-papers}
 
 #### Motivated Reasoning and Information Aggregation
-With [Avidit Acharya](https://aviditacharya.humsci.stanford.edu/) and [Tomer Zaidman](https://www.linkedin.com/in/tomer-zaidman/), we model motivated reasoning and apply it to two informational models. [Paper](http://pyotrr-politics.github.io/assets/files/motivation.pdf)
+With [Avidit Acharya](https://aviditacharya.humsci.stanford.edu/) and [Tomer Zaidman](https://www.linkedin.com/in/tomer-zaidman/), we model motivated reasoning and apply it to two informational models. [arXiv](https://arxiv.org/abs/2512.10125)
 
 #### Sharp Bound for Average Treatment Effects with Monotone Instrument Variables
 I derive a sharp bound for the ATE under typical IV assumptions used in the classical partial identification literature. [Paper](http://pyotrr-politics.github.io/assets/files/mivmtr.pdf)
